@@ -18,6 +18,6 @@ Para utilizar este repositório, você precisa ter o PHP instalado em seu ambien
 Clone o repositório e instale as dependências com o Composer:
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/gustacoding/integracao-pix.git
+cd integracao-pix
 composer install
